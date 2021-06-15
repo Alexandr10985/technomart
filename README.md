@@ -1,1 +1,1 @@
-"# technomart Alexandr Grechnikov" 
+"# technomart Alexandr" 
